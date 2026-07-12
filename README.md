@@ -1,10 +1,8 @@
-Here's a complete, polished GitHub README that combines everything into a single professional, modern, Gen Z–style profile while staying recruiter-friendly.
+# 👋 Hey, I'm Chidugundu Someswara Swamy
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=240&section=header&text=Chidugundu%20Someswara%20Swamy&fontSize=46&fontColor=E2E8F0&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Building%20Products%20That%20Matter&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" width="100%"/>
-
-# 👋 Hey, I'm Someswara Swamy
 
 ### Full-Stack Developer • MERN Stack • Machine Learning • Problem Solver
 
@@ -15,7 +13,7 @@ Here's a complete, polished GitHub README that combines everything into a single
 <a href="https://codechef.com/users/somu_77"><img src="https://img.shields.io/badge/CodeChef-334155?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=750&lines=Building+products,+not+just+projects.;Crafting+scalable+MERN+applications.;Turning+ideas+into+real-world+solutions.;Always+learning.+Always+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=750&lines=Building+products,+not+just+projects.;Crafting+scalable+MERN+applications.;Turning+ideas+into+real-world+solutions.;Always+learning.+Always+shipping."/>
 
 <img src="https://komarev.com/ghpvc/?username=somu7706&label=Profile+Views&color=334155&style=for-the-badge"/>
 
@@ -25,183 +23,140 @@ Here's a complete, polished GitHub README that combines everything into a single
 
 # 🚀 About Me
 
-I'm **Chidugundu Someswara Swamy**, a Computer Science undergraduate at **G. Pulla Reddy Engineering College** with a **CGPA of 8.62/10**.
+I'm **Chidugundu Someswara Swamy**, a Computer Science undergraduate at **G. Pulla Reddy Engineering College** (CGPA **8.62/10**).
 
-I love transforming ideas into real-world products—from designing beautiful user interfaces to building scalable backend systems and deploying complete applications.
+I enjoy building complete products—from intuitive frontend experiences to scalable backend systems and production deployment.
 
-My interests revolve around:
+## 🌱 Current Focus
 
-* ⚡ Full-Stack Web Development
-* 🚀 Building production-ready MERN applications
-* 🤖 Machine Learning
-* 🧠 Data Structures & Algorithms
-* ☁️ Cloud Deployment
-* 🏗️ System Design
-
-I believe great software isn't just about writing code—it's about solving real problems and creating experiences users genuinely enjoy.
+- ⚛️ Full-Stack MERN Development
+- ☁️ System Design & Cloud
+- 🤖 Machine Learning
+- 🧠 Competitive Programming
+- 🚀 Building production-ready software
 
 ---
 
-# 🔥 What I'm Currently Building
+# 🔥 Featured Projects
 
-## 🥻 Someswara Swamy Sarees
+## 🏠 S3 Elite PG Platform
 
-A complete e-commerce platform built for my family's saree business.
+**🌐 Live:** https://s3elite.vercel.app/
+
+A production-ready Hostel & PG Management Platform.
 
 ### Features
 
-* Product Management
-* Inventory Management
-* Authentication
-* Wishlist
-* Cart & Checkout
-* Order Tracking
-* Recommendation Engine
-* Admin Dashboard
-* Real-time Notifications
-* WhatsApp Integration
-* Razorpay Payments
-* Analytics
+- Student & Room Management
+- Fee & Payment Tracking
+- UTR Verification
+- Complaint Management
+- WhatsApp Notifications
+- Analytics Dashboard
+- Socket.io Real-time Updates
+- JWT Authentication
+- Responsive UI
 
-**Tech Stack**
+**Tech**
+
+React • TypeScript • Node.js • Express • MongoDB • Tailwind CSS • Socket.io
+
+---
+
+## 🥻 Someswara Swamy Sarees
+
+**🌐 Live:** https://someswaraswamysarees.vercel.app/
+
+A modern e-commerce platform built for my family's traditional saree business.
+
+### Features
+
+- Product Catalog
+- Smart Search
+- Wishlist
+- Shopping Cart
+- Secure Authentication
+- Order Management
+- Product Recommendations
+- Inventory Management
+- Admin Dashboard
+- Responsive Design
+
+**Tech**
 
 React • TypeScript • Node.js • Express • MongoDB • Tailwind CSS • Socket.io • Supabase
 
 ---
 
-# ⭐ Featured Projects
+## 🌾 Smart Farming Platform
 
-## 🏠 S3 Elite PG Platform
+**🌐 Live:** https://smart-farming-rgm.vercel.app/
 
-🌐 **Live Demo**
-
-[https://s3elite.vercel.app/](https://s3elite.vercel.app/)
-
-A complete Hostel & PG Management Platform built for real-world usage.
-
-### Highlights
-
-* Student Management
-* Room Allocation
-* Mess Management
-* Monthly Fee Tracking
-* UTR Verification
-* Complaint Management
-* WhatsApp Notifications
-* Real-time Dashboard
-* Analytics
-* JWT Authentication
-* Responsive UI
-* Socket.io Integration
-
-### Tech
-
-React • TypeScript • Node.js • MongoDB • Express • Tailwind CSS • Socket.io
-
----
-
-## 🥻 Someswara Swamy Sarees
-
-A modern full-stack e-commerce platform for a traditional saree business.
+AI-powered agriculture platform helping farmers with intelligent recommendations.
 
 ### Features
 
-* Secure Authentication
-* Product Recommendations
-* Cart
-* Wishlist
-* Orders
-* Admin Dashboard
-* Inventory Management
-* Customer Management
-* Payment Integration
-* Responsive Design
-
-**Tech**
-
-React • TypeScript • Node.js • MongoDB • Supabase
-
----
-
-## 🌾 Smart Agritech Platform
-
-Hackathon-winning AI-powered agriculture platform.
-
-### Features
-
-* Plant Disease Detection
-* Crop Recommendation
-* Soil Analysis
-* Weather Integration
-* Live Dashboard
-* ML Model Integration
-* Real-time Monitoring
+- Crop Recommendation
+- Plant Disease Detection
+- Weather Information
+- Farmer Dashboard
+- ML Predictions
+- Image-based Diagnosis
+- Responsive Design
 
 **Achievement**
 
 🥇 Winner — 24 Hour Hackathon
 
+**Tech**
+
+React • Node.js • MongoDB • Python • TensorFlow
+
 ---
 
 ## 🛠 QuickServe
 
-A real-time service marketplace connecting customers with workers.
+**🌐 Live:** https://quickserve-v1.netlify.app/
 
-### Features
-
-* Authentication
-* Worker Dashboard
-* Service Booking
-* Live Requests
-* Booking Management
-
-🔗 [https://quickserve-v1.netlify.app/](https://quickserve-v1.netlify.app/)
+Real-time marketplace connecting customers with skilled workers.
 
 ---
 
 ## 🛍 ShopEZ
 
-A modern full-stack e-commerce application.
+**🌐 Live:** http://shopez-kappa.vercel.app/
 
-### Features
-
-* Shopping Cart
-* Authentication
-* Orders
-* Product Catalog
-* Admin Dashboard
-
-🔗 [http://shopez-kappa.vercel.app/](http://shopez-kappa.vercel.app/)
+Modern full-stack e-commerce application.
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,mysql"/>
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,vite"/>
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase"/>
 </p>
 
-## Machine Learning
+### Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy"/>
 </p>
 
-## Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,vscode"/>
@@ -227,140 +182,94 @@ A modern full-stack e-commerce application.
 
 # 🏆 Achievements
 
-🥇 **1st Place** — 24 Hour Hackathon (RGM College)
-
-🥉 **3rd Place** — CodeChef VibeCoding Competition
-
-🌍 **Global Rank 2677 / 53958** — Smart Interviews
-
-☕ **NPTEL Programming Through Java** — 83%
-
-🐍 **Infosys Springboard Python Certification** — 95%
+- 🥇 1st Place — 24 Hour Hackathon
+- 🥉 3rd Place — CodeChef VibeCoding Competition
+- 🌍 Smart Interviews Global Rank 2677 / 53958
+- ☕ NPTEL Programming Through Java (83%)
+- 🐍 Infosys Springboard Python (95%)
 
 ---
 
 # 🎓 Education
 
-| Degree                                | Institute                          | Score            |
-| ------------------------------------- | ---------------------------------- | ---------------- |
-| B.Tech Computer Science & Engineering | G. Pulla Reddy Engineering College | **CGPA 8.62/10** |
-| Intermediate (MPC)                    | Narayana Junior College            | **9.1 GPA**      |
+| Degree | Institute | Score |
+|---------|-----------|------:|
+| B.Tech CSE | G. Pulla Reddy Engineering College | 8.62 CGPA |
+| Intermediate (MPC) | Narayana Junior College | 9.1 GPA |
 
 ---
 
-# 📈 My Journey
+# 📈 Journey
 
 ```text
 Started Programming
-        │
-        ▼
-Learned Java & Python
-        │
-        ▼
-Built Full-Stack MERN Projects
-        │
-        ▼
-Won National Hackathons
-        │
-        ▼
-Built Production Applications
-        │
-        ▼
-Learning System Design
-        │
-        ▼
-Open to Software Engineering Opportunities 🚀
+      ↓
+Java & Python
+      ↓
+Web Development
+      ↓
+MERN Stack
+      ↓
+Hackathon Winner
+      ↓
+Production Applications
+      ↓
+System Design
+      ↓
+Open to SDE Opportunities 🚀
 ```
 
 ---
 
 # 📚 Currently Learning
 
-* Advanced MERN Architecture
-* System Design
-* Cloud Deployment
-* TypeScript
-* Docker
-* CI/CD
-* Scalable Backend Development
-* Competitive Programming
+- System Design
+- TypeScript
+- Docker
+- CI/CD
+- Cloud Deployment
+- Advanced DSA
 
 ---
 
-# 📌 Project Highlights
+# 📌 Highlights
 
-✔ 20+ REST APIs
-
-✔ JWT Authentication
-
-✔ Role-Based Authorization
-
-✔ Socket.io Real-time Communication
-
-✔ Responsive UI
-
-✔ MongoDB Database Design
-
-✔ Admin Dashboards
-
-✔ Payment Integration
-
-✔ WhatsApp Automation
-
-✔ Machine Learning Integration
-
-✔ Production Deployments
+- ✅ 20+ REST APIs
+- ✅ JWT Authentication
+- ✅ Socket.io Real-time Apps
+- ✅ Responsive UI
+- ✅ Admin Dashboards
+- ✅ ML Integration
+- ✅ Production Deployments
 
 ---
 
 # ⚡ Fun Facts
 
-💻 I enjoy building products from scratch.
-
-🚀 I love solving real-world problems through software.
-
-🏆 Hackathons are my favorite way to learn.
-
-🌱 Every project teaches me something new.
-
-🎯 My goal is to become a Software Engineer building products used by millions.
+- 💻 Building products is my favorite way to learn.
+- 🚀 I enjoy solving real-world problems with technology.
+- 🌱 Every project teaches me something new.
+- 🎯 Goal: Become a Software Engineer building products used by millions.
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect
 
 <p align="center">
-
-<a href="mailto:somu7075267357@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/somu7706">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/somu9885">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codechef.com/users/somu_77">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
+<a href="mailto:somu7075267357@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/somu7706"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/somu9885"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codechef.com/users/somu_77"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ *"Code. Learn. Build. Repeat."*
+## ⭐ Code • Learn • Build • Repeat
 
-**Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories.**
+Thanks for visiting my profile! ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=150&section=footer"/>
 
 </div>
-
-This version is significantly more polished and recruiter-focused. It emphasizes your **S3 Elite PG Platform** and **Someswara Swamy Sarees** as real products, improves the narrative, and presents your skills and achievements in a clean, modern style while keeping the visual appeal of your original README.
-
-One additional improvement I'd recommend is adding **screenshots or GIF demos** of S3 Elite and Someswara Swamy Sarees directly below each project section—those make a much stronger impression than text alone.
