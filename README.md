@@ -1,24 +1,23 @@
-
 <!-- ========================================================= -->
-<!--          SOMESWARA SWAMY | GITHUB PROFILE                -->
-<!--                  CYBER AURORA EDITION                     -->
+<!--        SOMESWARA SWAMY | GITHUB PROFILE                   -->
+<!--                GEN Z EDITION 💅                           -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,15:0C1A3A,35:164E63,60:4C1D95,85:312E81,100:020617&text=SOMESWARA%20SWAMY&fontColor=E0F2FE&fontSize=58&fontAlignY=37&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20EXPLORER&descAlignY=57&descSize=17&descColor=67E8F9&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,15:0C1A3A,35:164E63,60:4C1D95,85:312E81,100:020617&text=SOMESWARA%20SWAMY&fontColor=E0F2FE&fontSize=58&fontAlignY=37&desc=full%20stack%20dev%20✨%20mern%20✨%20ai%20curious&descAlignY=57&descSize=17&descColor=67E8F9&animation=twinkling"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=67E8F9&center=true&vCenter=true&repeat=true&width=850&height=55&lines=%3E+BUILDING+PRODUCTS%2C+NOT+JUST+PROJECTS;FULL+STACK+DEVELOPER+%7C+MERN+STACK;EXPLORING+AI+%26+MACHINE+LEARNING;TURNING+IDEAS+INTO+REALITY+%F0%9F%9A%80;CODE.+CREATE.+INNOVATE.+REPEAT."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=67E8F9&center=true&vCenter=true&repeat=true&width=850&height=55&lines=no+cap%2C+i+actually+ship+stuff+🚀;full+stack+dev+%7C+mern+%F0%9F%92%BB;ai+is+lowkey+my+whole+personality+🤖;built+different.+literally.;it%27s+giving+builder+energy+✨" />
 
 <br/>
 
-<a href="https://github.com/somu7706"><img src="https://img.shields.io/badge/GITHUB-Profile-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/></a>
-<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:somu7075267357@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's_Talk-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/somu9885"><img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codechef.com/users/somu_77"><img src="https://img.shields.io/badge/CODECHEF-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://github.com/somu7706"><img src="https://img.shields.io/badge/github-my%20home%20fr-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/></a>
+<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354"><img src="https://img.shields.io/badge/linkedin-slide%20in%20my%20dms-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:somu7075267357@gmail.com"><img src="https://img.shields.io/badge/email-hit%20me%20up-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/somu9885"><img src="https://img.shields.io/badge/leetcode-grind%20era-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codechef.com/users/somu_77"><img src="https://img.shields.io/badge/codechef-the%20side%20quest-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -27,9 +26,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_+_AI-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/MINDSET-NEVER_STOP_LEARNING-0369A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/status-always%20building%20💯-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/main%20character%20energy-full%20stack%20+%20ai-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/vibe-never%20stop%20learning-0369A1?style=flat-square"/>
 
 </div>
 
@@ -37,9 +36,9 @@
 
 <div align="center">
 
-# ◈ 01 — THE DEVELOPER BEHIND THE CODE ◈
+# ✨ 01 — the dev behind the code ✨
 
-*I don't just write code. I build things that solve problems.*
+*not gonna lie, i just like building stuff that actually solves problems.*
 
 </div>
 
@@ -47,63 +46,44 @@
 <tr>
 <td width="58%" valign="top">
 
-### 👨‍💻 About Me
+### 👀 ok so who am i
 
 ```javascript
 const somu = {
   name: "Chidugundu Someswara Swamy",
-  role: "Full-Stack Developer",
-  education: "B.Tech - Computer Science",
+  role: "Full-Stack Developer (the fun kind 😤)",
+  education: "B.Tech - CS (surviving it, lowkey thriving)",
   college: "G. Pulla Reddy Engineering College",
 
-  interests: [
-    "Full Stack Development",
-    "AI & Machine Learning",
-    "Backend Engineering",
-    "System Design"
+  obsessed_with: [
+    "full stack dev",
+    "AI & ML (ofc)",
+    "backend stuff",
+    "system design brain rot"
   ],
 
-  technologies: {
-    frontend: [
-      "React",
-      "JavaScript",
-      "TypeScript",
-      "Tailwind CSS"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express",
-      "Python"
-    ],
-
-    databases: [
-      "MongoDB",
-      "MySQL",
-      "Supabase"
-    ],
-
-    ai: [
-      "Machine Learning",
-      "TensorFlow"
-    ]
+  stack: {
+    frontend: ["React", "JavaScript", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "Python"],
+    databases: ["MongoDB", "MySQL", "Supabase"],
+    ai: ["Machine Learning", "TensorFlow"]
   },
 
-  currentlyLearning: [
+  currently_learning_rn: [
     "Docker",
     "Cloud",
     "CI/CD",
-    "Advanced DSA"
+    "Advanced DSA (send help)"
   ],
 
-  motto: "Build. Break. Learn. Repeat."
+  motto: "build. break. learn. repeat. 🔁"
 };
 ```
 
 </td>
 <td width="42%" valign="top">
 
-### ⚡ Developer Snapshot
+### ⚡ the vibe check
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/somu7706?style=for-the-badge&logo=github&label=GITHUB%20FOLLOWERS&color=7C3AED" alt="GitHub Followers"/>
@@ -114,7 +94,7 @@ const somu = {
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEVELOPER-0891B2?style=for-the-badge&logo=code&logoColor=white" alt="Developer Role"/>
+<img src="https://img.shields.io/badge/ROLE-full%20stack%20dev-0891B2?style=for-the-badge&logo=code&logoColor=white" alt="Developer Role"/>
 </p>
 
 <p align="center">
@@ -122,12 +102,12 @@ const somu = {
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20PROJECTS-0F766E?style=for-the-badge&logo=rocket&logoColor=white" alt="Building Projects"/>
+<img src="https://img.shields.io/badge/BUILDING-real%20world%20stuff-0F766E?style=for-the-badge&logo=rocket&logoColor=white" alt="Building Projects"/>
 </p>
 
 <p align="center">
 <a href="https://github.com/somu7706?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore Repositories"/>
+<img src="https://img.shields.io/badge/peek%20my%20repos-👀-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore Repositories"/>
 </a>
 </p>
 
@@ -135,22 +115,22 @@ const somu = {
 </tr>
 </table>
 
-### 🎯 What I Do
+### 🎯 what i do (lowkey everything)
 
-- 💻 Build full-stack web applications and backend systems.
-- 🤖 Explore AI and machine learning to create smarter products.
-- 🚀 Turn real-world problems into working applications.
-- 🏆 Participate in hackathons and coding competitions.
-- 🌱 Continuously explore new technologies and development practices.
-- 🎯 Interested in Software Engineering and Full-Stack Development opportunities.
+- 💻 build full-stack apps and backend systems that actually work
+- 🤖 play with AI & ML to make products less mid
+- 🚀 take real-world problems and turn them into apps
+- 🏆 hackathons and coding comps (the adrenaline is unmatched)
+- 🌱 always learning new stuff, the tech world moves too fast to sit still
+- 🎯 looking for software engineering & full-stack opps. slide in if ur hiring 👀
 
 ---
 
 <div align="center">
 
-# ◈ 02 — PROJECTS FROM THE LAB ◈
+# ✨ 02 — projects i've cooked ✨
 
-*Ideas transformed into applications. Every project has a story.*
+*every project is a little story. some are slay, some are learning arcs.*
 
 </div>
 
@@ -163,25 +143,25 @@ const somu = {
 ### 🏢 S3 ELITE PG PLATFORM
 
 <a href="https://s3elite.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-**PG & Hostel Management Platform**
+**PG & hostel management, but make it not chaotic**
 
-A complete management platform for PG and hostel operations.
+the whole PG/hostel ops in one place, no more chasing rent on WhatsApp 💀
 
-**Key Features**
-- Real-time dashboard
-- Room allocation
-- Fee tracking
-- Complaint management
+**the goods**
+- real-time dashboard
+- room allocation
+- fee tracking
+- complaint management
 - WhatsApp notifications
-- JWT authentication
-- Socket.io integration
+- JWT auth
+- socket.io (live stuff) ⚡
 
-**Technology**
+**stack**
 
 `React` `TypeScript` `Node.js` `Express` `MongoDB`
 
@@ -193,27 +173,27 @@ A complete management platform for PG and hostel operations.
 ### 🌾 SMART FARMING
 
 <a href="https://smart-farming-rgm.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-**AI-Powered Agricultural Platform**
+**AI-powered farming app (built in a hackathon, no sleep included)**
 
-An agricultural solution developed during a hackathon.
+farmers deserve tech that slaps too 🌽
 
-**Key Features**
-- Plant disease detection
-- Crop recommendations
-- Weather insights
+**the goods**
+- plant disease detection
+- crop recommendations
+- weather insights
 - ML predictions
-- Farmer dashboard
+- farmer dashboard
 
 <div align="center">
-<img src="https://img.shields.io/badge/ACHIEVEMENT-1ST_PLACE_24H_HACKATHON-CA8A04?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/achievement-1st%20place%2024h%20hackathon%20🏆-CA8A04?style=for-the-badge"/>
 </div>
 
-**Technology**
+**stack**
 
 `React` `Node.js` `MongoDB` `Python` `TensorFlow`
 
@@ -228,24 +208,24 @@ An agricultural solution developed during a hackathon.
 ### 🥻 SOMESWARA SWAMY SAREES
 
 <a href="https://someswaraswamysarees.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-**Family Business E-commerce Platform**
+**e-commerce for my family's saree biz 🪡**
 
-An e-commerce platform built for my family's saree business.
+built it for the fam, now it's a whole online store. generational wealth but make it digital.
 
-**Key Features**
-- Product catalog
-- Wishlist and cart
-- Admin dashboard
-- Inventory management
-- Product recommendations
-- Order management
+**the goods**
+- product catalog
+- wishlist & cart
+- admin dashboard
+- inventory management
+- product recommendations
+- order management
 
-**Technology**
+**stack**
 
 `React` `TypeScript` `Node.js` `MongoDB` `Supabase`
 
@@ -257,19 +237,19 @@ An e-commerce platform built for my family's saree business.
 ### ⚡ QUICKSERVE
 
 <a href="https://quickserve-v1.netlify.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 </div>
 
-**Real-Time Service Marketplace**
+**real-time service marketplace (customers ↔ workers)**
 
-A platform connecting customers and workers.
+connecting people who need stuff done with people who can do it. simple idea, big energy.
 
-**Project Concept**
-- Customer-worker connection
-- Service discovery
-- Marketplace experience
+**the concept**
+- customer-worker connection
+- service discovery
+- marketplace experience
 
 </td>
 </tr>
@@ -282,16 +262,16 @@ A platform connecting customers and workers.
 ### 🏥 MEDICURE ADMIN
 
 <a href="http://medicure-admin.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-Healthcare administration dashboard project.
+healthcare admin dashboard. clean UI, serious vibes 🩺
 
-- Healthcare management interface
-- Administrative workflows
-- Dashboard-oriented experience
+- healthcare management interface
+- admin workflows
+- dashboard-first experience
 
 </td>
 <td width="50%" valign="top">
@@ -301,16 +281,16 @@ Healthcare administration dashboard project.
 ### 🎓 ALUMNI PORTAL
 
 <a href="https://alumni-ten-eta.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-A platform designed to connect students and alumni.
+students meet alumni, networking but make it not awkward 🤝
 
-- Alumni networking
-- Community management
-- Student-alumni interaction
+- alumni networking
+- community management
+- student-alumni interaction
 
 </td>
 </tr>
@@ -323,16 +303,16 @@ A platform designed to connect students and alumni.
 ### 🍽️ QISSA ARABIC RESTAURANT
 
 <a href="https://qissa-arabic-restaurant.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-Restaurant website with an Arabic-inspired identity.
+restaurant site with arabic-inspired aesthetic. menu? ate. 🫓
 
-- Restaurant presentation
-- Digital menu experience
-- Responsive web interface
+- restaurant presentation
+- digital menu experience
+- responsive web interface
 
 </td>
 <td width="50%" valign="top">
@@ -342,16 +322,16 @@ Restaurant website with an Arabic-inspired identity.
 ### 👗 AURA FASHION
 
 <a href="https://aurafashion-r4yn.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-Fashion-oriented web application.
+fashion web app. the aura is intentional ✨
 
-- Fashion brand presentation
-- Modern interface
-- Responsive experience
+- fashion brand presentation
+- modern interface
+- responsive experience
 
 </td>
 </tr>
@@ -364,16 +344,16 @@ Fashion-oriented web application.
 ### 🛒 SHOPEZ
 
 <a href="http://shopez-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-A modern MERN-based e-commerce application.
+modern MERN e-commerce app. shopping, but make it smooth 🛍️
 
-- Online shopping experience
-- Product discovery
-- E-commerce workflows
+- online shopping experience
+- product discovery
+- e-commerce workflows
 
 </td>
 <td width="50%" valign="top">
@@ -382,16 +362,16 @@ A modern MERN-based e-commerce application.
 
 ### 🧪 NEXT PROJECT LOADING
 
-<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/status-cooking%20🍳-7C3AED?style=for-the-badge"/>
 
 </div>
 
-**The next idea is always loading.**
+**the next one is always loading.** literally can't stop. 😭
 
-- AI-powered applications
-- Backend architectures
-- Developer productivity tools
-- Real-world SaaS products
+- AI-powered apps
+- backend architectures
+- dev productivity tools
+- real-world SaaS products
 
 </td>
 </tr>
@@ -401,35 +381,35 @@ A modern MERN-based e-commerce application.
 
 <div align="center">
 
-# ◈ 03 — TECH ARSENAL ◈
+# ✨ 03 — the tech drip ✨
 
-*The tools I use to turn ideas into reality.*
+*the tools i use to turn ideas into reality. the stack is the outfit.*
 
-### 💻 PROGRAMMING LANGUAGES
+### 💻 languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,mysql&theme=dark"/>
 
 <br/><br/>
 
-### 🎨 FRONTEND DEVELOPMENT
+### 🎨 frontend
 
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,vite&theme=dark"/>
 
 <br/><br/>
 
-### ⚙️ BACKEND & DATABASES
+### ⚙️ backend & databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&theme=dark"/>
 
 <br/><br/>
 
-### 🤖 AI & MACHINE LEARNING
+### 🤖 AI & ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark"/>
 
 <br/><br/>
 
-### 🧰 DEVELOPER TOOLS
+### 🧰 dev tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker&theme=dark"/>
 
@@ -439,9 +419,9 @@ A modern MERN-based e-commerce application.
 
 <div align="center">
 
-# ◈ 04 — GITHUB COMMAND CENTER ◈
+# ✨ 04 — the github receipts ✨
 
-*My coding activity, contributions and repository statistics.*
+*my commits, my streaks, my proof that i actually touch code. no cap.*
 
 <br/>
 
@@ -459,9 +439,9 @@ A modern MERN-based e-commerce application.
 
 <div align="center">
 
-# ◈ 05 — CONTRIBUTION SNAKE ◈
+# ✨ 05 — the contribution snake 🐍 ✨
 
-*Every contribution tells a story.*
+*every green square is a little W.*
 
 <img src="https://raw.githubusercontent.com/somu7706/somu7706/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
@@ -471,40 +451,40 @@ A modern MERN-based e-commerce application.
 
 <div align="center">
 
-# ◈ 06 — ACHIEVEMENTS & TROPHIES ◈
+# ✨ 06 — the trophy case 🏆 ✨
 
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=somu7706&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
-### 🏆 Milestones
+### 🏆 the W's
 
-| Achievement | Recognition |
+| Achievement | The receipts |
 |:--|:--|
-| 🥇 Hackathon | 1st Place — 24-Hour Hackathon |
-| 🥉 Competition | 3rd Place — CodeChef VibeCoding |
-| 🌍 Coding | Smart Interviews Global Rank 2677 |
-| ☕ NPTEL | Programming Through Java — 83% |
-| 🐍 Certification | Infosys Springboard Python — 95% |
+| 🥇 Hackathon | 1st place, 24-hour hackathon. absolute W |
+| 🥉 Competition | 3rd place, CodeChef VibeCoding. bronze but make it iconic |
+| 🌍 Coding | Smart Interviews Global Rank 2677 (out here competing) |
+| ☕ NPTEL | Programming Through Java, 83% |
+| 🐍 Certification | Infosys Springboard Python, 95% |
 
 ---
 
 <div align="center">
 
-# ◈ 07 — EDUCATION ◈
+# ✨ 07 — education era ✨
 
 </div>
 
 | Qualification | Institution | Score |
 |:--|:--|--:|
-| B.Tech — CSE | G. Pulla Reddy Engineering College | 8.62 CGPA |
+| B.Tech, CSE | G. Pulla Reddy Engineering College | 8.62 CGPA |
 | Intermediate | Narayana Junior College | 9.1 GPA |
 
 ---
 
 <div align="center">
 
-# ◈ 08 — CURRENTLY EXPLORING ◈
+# ✨ 08 — currently in my bag ✨
 
 <img src="https://img.shields.io/badge/SYSTEM_DESIGN-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=67E8F9"/>
 <img src="https://img.shields.io/badge/DOCKER-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
@@ -519,39 +499,39 @@ A modern MERN-based e-commerce application.
 
 <div align="center">
 
-# ◈ 09 — BEYOND THE CODE ◈
+# ✨ 09 — tldr ✨
 
-### 💡 I love shipping real products.
-### 🚀 Every project is an opportunity to learn.
-### 🎯 My goal is to build software that makes a difference.
+### 💡 i love shipping real products (no cap)
+### 🚀 every project is a chance to learn something
+### 🎯 goal: build software that actually hits different
 
 <br/>
 
-# ◈ CONNECT WITH ME ◈
+# ✨ slide in ✨
 
 <a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354">
-<img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-slide%20in%20🫶-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:somu7075267357@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-DROP_A_MESSAGE-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-drop%20a%20msg-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/somu7706">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW_MY_JOURNEY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-follow%20the%20journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/somu9885">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LEETCODE-profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://codechef.com/users/somu_77">
-<img src="https://img.shields.io/badge/CODECHEF-PROFILE-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CODECHEF-profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=THANKS+FOR+VISITING+MY+PROFILE;LET'S+BUILD+SOMETHING+AMAZING+%F0%9F%9A%80;KEEP+LEARNING.+KEEP+CREATING."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=thanks+for+stopping+by+💜;lets+build+something+lowkey+insane+🚀;keep+learning.+keep+shipping.+ate+and+left+no+crumbs+✨" />
 
 <br/>
 
@@ -559,6 +539,6 @@ A modern MERN-based e-commerce application.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,25:164E63,55:4C1D95,80:312E81,100:020617&animation=twinkling"/>
 
-**CODE • CREATE • INNOVATE • REPEAT**
+**code • create • slay • repeat 💅**
 
 </div>
