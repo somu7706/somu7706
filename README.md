@@ -48,7 +48,7 @@
 
 ### ok so who am i
 
-```javascript
+
 const somu = {
   name: "Chidugundu Someswara Swamy",
   role: "Full-Stack Developer (the fun kind)",
@@ -78,7 +78,7 @@ const somu = {
 
   motto: "build. break. learn. repeat."
 };
-```
+
 
 </td>
 <td width="42%" valign="top">
