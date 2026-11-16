@@ -1,6 +1,6 @@
 
 <!-- ========================================================= -->
-<!--             SOMESWARA SWAMY | GITHUB PROFILE              -->
+<!--          SOMESWARA SWAMY | GITHUB PROFILE                -->
 <!--                  CYBER AURORA EDITION                     -->
 <!-- ========================================================= -->
 
@@ -14,21 +14,11 @@
 
 <br/>
 
-<a href="https://github.com/somu7706">
-<img src="https://img.shields.io/badge/GITHUB-Profile-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/>
-</a>
-<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:somu7075267357@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Let's_Talk-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/somu9885">
-<img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://codechef.com/users/somu_77">
-<img src="https://img.shields.io/badge/CODECHEF-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<a href="https://github.com/somu7706"><img src="https://img.shields.io/badge/GITHUB-Profile-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/></a>
+<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:somu7075267357@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's_Talk-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/somu9885"><img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codechef.com/users/somu_77"><img src="https://img.shields.io/badge/CODECHEF-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -62,11 +52,8 @@
 ```javascript
 const somu = {
   name: "Chidugundu Someswara Swamy",
-
   role: "Full-Stack Developer",
-
   education: "B.Tech - Computer Science",
-
   college: "G. Pulla Reddy Engineering College",
 
   interests: [
@@ -118,11 +105,31 @@ const somu = {
 
 ### ⚡ Developer Snapshot
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=somu7706&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0"/>
+<p align="center">
+<img src="https://img.shields.io/github/followers/somu7706?style=for-the-badge&logo=github&label=GITHUB%20FOLLOWERS&color=7C3AED" alt="GitHub Followers"/>
+</p>
 
-<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/PROFILE-somu7706-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Username"/>
+</p>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somu7706&layout=compact&hide_border=true&theme=tokyonight&bg_color=050816&title_color=67E8F9&text_color=E2E8F0"/>
+<p align="center">
+<img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEVELOPER-0891B2?style=for-the-badge&logo=code&logoColor=white" alt="Developer Role"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/FOCUS-MERN%20%7C%20AI-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Current Focus"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20PROJECTS-0F766E?style=for-the-badge&logo=rocket&logoColor=white" alt="Building Projects"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/somu7706?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore Repositories"/>
+</a>
+</p>
 
 </td>
 </tr>
@@ -166,7 +173,6 @@ const somu = {
 A complete management platform for PG and hostel operations.
 
 **Key Features**
-
 - Real-time dashboard
 - Room allocation
 - Fee tracking
@@ -197,7 +203,6 @@ A complete management platform for PG and hostel operations.
 An agricultural solution developed during a hackathon.
 
 **Key Features**
-
 - Plant disease detection
 - Crop recommendations
 - Weather insights
@@ -205,9 +210,7 @@ An agricultural solution developed during a hackathon.
 - Farmer dashboard
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/ACHIEVEMENT-1ST_PLACE_24H_HACKATHON-CA8A04?style=for-the-badge"/>
-
 </div>
 
 **Technology**
@@ -235,7 +238,6 @@ An agricultural solution developed during a hackathon.
 An e-commerce platform built for my family's saree business.
 
 **Key Features**
-
 - Product catalog
 - Wishlist and cart
 - Admin dashboard
@@ -265,7 +267,6 @@ An e-commerce platform built for my family's saree business.
 A platform connecting customers and workers.
 
 **Project Concept**
-
 - Customer-worker connection
 - Service discovery
 - Marketplace experience
@@ -404,10 +405,6 @@ A modern MERN-based e-commerce application.
 
 *The tools I use to turn ideas into reality.*
 
-</div>
-
-<div align="center">
-
 ### 💻 PROGRAMMING LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,mysql&theme=dark"/>
@@ -446,17 +443,15 @@ A modern MERN-based e-commerce application.
 
 *My coding activity, contributions and repository statistics.*
 
-</div>
+<br/>
 
-<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=somu7706&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=somu7706&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=somu7706&theme=tokyonight&hide_border=true&background=050816&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=somu7706&theme=tokyonight&hide_border=true&background=050816&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=somu7706&theme=tokyo-night&hide_border=true&bg_color=050816&color=67E8F9&line=A78BFA&point=FFFFFF"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=somu7706&theme=tokyo-night&hide_border=true&bg_color=050816&color=67E8F9&line=A78BFA&point=FFFFFF" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -478,7 +473,7 @@ A modern MERN-based e-commerce application.
 
 # ◈ 06 — ACHIEVEMENTS & TROPHIES ◈
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=somu7706&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=somu7706&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -564,6 +559,6 @@ A modern MERN-based e-commerce application.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,25:164E63,55:4C1D95,80:312E81,100:020617&animation=twinkling"/>
 
-**CODE  •  CREATE  •  INNOVATE  •  REPEAT**
+**CODE • CREATE • INNOVATE • REPEAT**
 
 </div>
