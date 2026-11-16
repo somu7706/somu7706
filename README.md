@@ -1,33 +1,33 @@
 <!-- ========================================================= -->
 <!--        SOMESWARA SWAMY | GITHUB PROFILE                   -->
-<!--                GEN Z EDITION 💅                           -->
+<!--                GEN Z EDITION                              -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,15:0C1A3A,35:164E63,60:4C1D95,85:312E81,100:020617&text=SOMESWARA%20SWAMY&fontColor=E0F2FE&fontSize=58&fontAlignY=37&desc=full%20stack%20dev%20✨%20mern%20✨%20ai%20curious&descAlignY=57&descSize=17&descColor=67E8F9&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,15:0C1A3A,35:164E63,60:4C1D95,85:312E81,100:020617&text=SOMESWARA%20SWAMY&fontColor=E0F2FE&fontSize=58&fontAlignY=37&desc=full%20stack%20dev%20%E2%9C%A8%20mern%20%E2%9C%A8%20ai%20curious&descAlignY=57&descSize=17&descColor=67E8F9&animation=twinkling"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=67E8F9&center=true&vCenter=true&repeat=true&width=850&height=55&lines=no+cap%2C+i+actually+ship+stuff+🚀;full+stack+dev+%7C+mern+%F0%9F%92%BB;ai+is+lowkey+my+whole+personality+🤖;built+different.+literally.;it%27s+giving+builder+energy+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=67E8F9&center=true&vCenter=true&repeat=true&width=850&height=55&lines=no+cap%2C+i+actually+ship+stuff;full+stack+dev+%7C+mern+stack;ai+is+lowkey+my+whole+personality;built+different.+literally;it%27s+giving+builder+energy" />
 
 <br/>
 
-<a href="https://github.com/somu7706"><img src="https://img.shields.io/badge/github-my%20home%20fr-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/></a>
-<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354"><img src="https://img.shields.io/badge/linkedin-slide%20in%20my%20dms-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:somu7075267357@gmail.com"><img src="https://img.shields.io/badge/email-hit%20me%20up-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/somu9885"><img src="https://img.shields.io/badge/leetcode-grind%20era-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codechef.com/users/somu_77"><img src="https://img.shields.io/badge/codechef-the%20side%20quest-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://github.com/somu7706"><img src="https://img.shields.io/badge/github-my%20home-111827?style=flat-square&logo=github&logoColor=67E8F9"/></a>
+<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354"><img src="https://img.shields.io/badge/linkedin-slide%20in-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:somu7075267357@gmail.com"><img src="https://img.shields.io/badge/email-hit%20me%20up-DB2777?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/somu9885"><img src="https://img.shields.io/badge/leetcode-grind%20era-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://codechef.com/users/somu_77"><img src="https://img.shields.io/badge/codechef-side%20quest-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=somu7706&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/somu7706?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=somu7706&style=flat-square&color=0891B2&label=profile+views"/>
+<img src="https://img.shields.io/github/followers/somu7706?style=flat-square&logo=github&label=followers&color=7C3AED"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/status-always%20building%20💯-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/main%20character%20energy-full%20stack%20+%20ai-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/status-always%20building-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/focus-full%20stack%20%2B%20ai-6D28D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/vibe-never%20stop%20learning-0369A1?style=flat-square"/>
 
 </div>
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-# ✨ 01 — the dev behind the code ✨
+## who tf is this guy
 
 *not gonna lie, i just like building stuff that actually solves problems.*
 
@@ -46,12 +46,12 @@
 <tr>
 <td width="58%" valign="top">
 
-### 👀 ok so who am i
+### ok so who am i
 
 ```javascript
 const somu = {
   name: "Chidugundu Someswara Swamy",
-  role: "Full-Stack Developer (the fun kind 😤)",
+  role: "Full-Stack Developer (the fun kind)",
   education: "B.Tech - CS (surviving it, lowkey thriving)",
   college: "G. Pulla Reddy Engineering College",
 
@@ -76,38 +76,38 @@ const somu = {
     "Advanced DSA (send help)"
   ],
 
-  motto: "build. break. learn. repeat. 🔁"
+  motto: "build. break. learn. repeat."
 };
 ```
 
 </td>
 <td width="42%" valign="top">
 
-### ⚡ the vibe check
+### the vibe check
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/somu7706?style=for-the-badge&logo=github&label=GITHUB%20FOLLOWERS&color=7C3AED" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/somu7706?style=flat-square&logo=github&label=github%20followers&color=7C3AED" alt="GitHub Followers"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROFILE-somu7706-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Username"/>
+<img src="https://img.shields.io/badge/profile-somu7706-0E7490?style=flat-square&logo=github&logoColor=white" alt="GitHub Username"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ROLE-full%20stack%20dev-0891B2?style=for-the-badge&logo=code&logoColor=white" alt="Developer Role"/>
+<img src="https://img.shields.io/badge/role-full%20stack%20dev-0891B2?style=flat-square&logo=code&logoColor=white" alt="Developer Role"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/FOCUS-MERN%20%7C%20AI-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Current Focus"/>
+<img src="https://img.shields.io/badge/focus-mern%20%7C%20ai-7C3AED?style=flat-square&logo=react&logoColor=white" alt="Current Focus"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/BUILDING-real%20world%20stuff-0F766E?style=for-the-badge&logo=rocket&logoColor=white" alt="Building Projects"/>
+<img src="https://img.shields.io/badge/building-real%20world%20stuff-0F766E?style=flat-square&logo=rocket&logoColor=white" alt="Building Projects"/>
 </p>
 
 <p align="center">
 <a href="https://github.com/somu7706?tab=repositories">
-<img src="https://img.shields.io/badge/peek%20my%20repos-👀-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore Repositories"/>
+<img src="https://img.shields.io/badge/peek%20my%20repos-111827?style=flat-square&logo=github&logoColor=67E8F9" alt="Explore Repositories"/>
 </a>
 </p>
 
@@ -115,22 +115,22 @@ const somu = {
 </tr>
 </table>
 
-### 🎯 what i do (lowkey everything)
+### what i do (lowkey everything)
 
-- 💻 build full-stack apps and backend systems that actually work
-- 🤖 play with AI & ML to make products less mid
-- 🚀 take real-world problems and turn them into apps
-- 🏆 hackathons and coding comps (the adrenaline is unmatched)
-- 🌱 always learning new stuff, the tech world moves too fast to sit still
-- 🎯 looking for software engineering & full-stack opps. slide in if ur hiring 👀
+- build full-stack apps and backend systems that actually work
+- play with AI & ML to make products less mid
+- take real-world problems and turn them into apps
+- hackathons and coding comps (the adrenaline is unmatched)
+- always learning, the tech world moves too fast to sit still
+- looking for software engineering & full-stack opps. slide in if ur hiring
 
 ---
 
 <div align="center">
 
-# ✨ 02 — projects i've cooked ✨
+## projects i've cooked
 
-*every project is a little story. some are slay, some are learning arcs.*
+*every project is a little story. some slay, some are learning arcs.*
 
 </div>
 
@@ -140,17 +140,17 @@ const somu = {
 
 <div align="center">
 
-### 🏢 S3 ELITE PG PLATFORM
+### S3 ELITE PG PLATFORM
 
 <a href="https://s3elite.vercel.app/">
-<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 **PG & hostel management, but make it not chaotic**
 
-the whole PG/hostel ops in one place, no more chasing rent on WhatsApp 💀
+all the PG/hostel ops in one place. no more chasing rent on WhatsApp.
 
 **the goods**
 - real-time dashboard
@@ -159,28 +159,26 @@ the whole PG/hostel ops in one place, no more chasing rent on WhatsApp 💀
 - complaint management
 - WhatsApp notifications
 - JWT auth
-- socket.io (live stuff) ⚡
+- socket.io (live stuff)
 
-**stack**
-
-`React` `TypeScript` `Node.js` `Express` `MongoDB`
+**stack:** `React` `TypeScript` `Node.js` `Express` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 🌾 SMART FARMING
+### SMART FARMING
 
 <a href="https://smart-farming-rgm.vercel.app/">
-<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 **AI-powered farming app (built in a hackathon, no sleep included)**
 
-farmers deserve tech that slaps too 🌽
+farmers deserve tech that slaps too.
 
 **the goods**
 - plant disease detection
@@ -190,12 +188,10 @@ farmers deserve tech that slaps too 🌽
 - farmer dashboard
 
 <div align="center">
-<img src="https://img.shields.io/badge/achievement-1st%20place%2024h%20hackathon%20🏆-CA8A04?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/achievement-1st%20place%2024h%20hackathon-CA8A04?style=flat-square"/>
 </div>
 
-**stack**
-
-`React` `Node.js` `MongoDB` `Python` `TensorFlow`
+**stack:** `React` `Node.js` `MongoDB` `Python` `TensorFlow`
 
 </td>
 </tr>
@@ -205,17 +201,17 @@ farmers deserve tech that slaps too 🌽
 
 <div align="center">
 
-### 🥻 SOMESWARA SWAMY SAREES
+### SOMESWARA SWAMY SAREES
 
 <a href="https://someswaraswamysarees.vercel.app/">
-<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-**e-commerce for my family's saree biz 🪡**
+**e-commerce for my family's saree biz**
 
-built it for the fam, now it's a whole online store. generational wealth but make it digital.
+built for the fam, now it's a whole online store. generational wealth, digital edition.
 
 **the goods**
 - product catalog
@@ -225,24 +221,22 @@ built it for the fam, now it's a whole online store. generational wealth but mak
 - product recommendations
 - order management
 
-**stack**
-
-`React` `TypeScript` `Node.js` `MongoDB` `Supabase`
+**stack:** `React` `TypeScript` `Node.js` `MongoDB` `Supabase`
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### ⚡ QUICKSERVE
+### QUICKSERVE
 
 <a href="https://quickserve-v1.netlify.app/">
-<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=flat-square&logo=netlify&logoColor=white"/>
 </a>
 
 </div>
 
-**real-time service marketplace (customers ↔ workers)**
+**real-time service marketplace (customers and workers)**
 
 connecting people who need stuff done with people who can do it. simple idea, big energy.
 
@@ -259,15 +253,15 @@ connecting people who need stuff done with people who can do it. simple idea, bi
 
 <div align="center">
 
-### 🏥 MEDICURE ADMIN
+### MEDICURE ADMIN
 
 <a href="http://medicure-admin.vercel.app/">
-<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-healthcare admin dashboard. clean UI, serious vibes 🩺
+healthcare admin dashboard. clean UI, serious vibes.
 
 - healthcare management interface
 - admin workflows
@@ -278,15 +272,15 @@ healthcare admin dashboard. clean UI, serious vibes 🩺
 
 <div align="center">
 
-### 🎓 ALUMNI PORTAL
+### ALUMNI PORTAL
 
 <a href="https://alumni-ten-eta.vercel.app/">
-<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-students meet alumni, networking but make it not awkward 🤝
+students meet alumni. networking, but make it not awkward.
 
 - alumni networking
 - community management
@@ -300,15 +294,15 @@ students meet alumni, networking but make it not awkward 🤝
 
 <div align="center">
 
-### 🍽️ QISSA ARABIC RESTAURANT
+### QISSA ARABIC RESTAURANT
 
 <a href="https://qissa-arabic-restaurant.vercel.app/">
-<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-restaurant site with arabic-inspired aesthetic. menu? ate. 🫓
+restaurant site with an arabic-inspired aesthetic. the menu is a vibe.
 
 - restaurant presentation
 - digital menu experience
@@ -319,15 +313,15 @@ restaurant site with arabic-inspired aesthetic. menu? ate. 🫓
 
 <div align="center">
 
-### 👗 AURA FASHION
+### AURA FASHION
 
 <a href="https://aurafashion-r4yn.vercel.app/">
-<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-fashion web app. the aura is intentional ✨
+fashion web app. the aura is intentional.
 
 - fashion brand presentation
 - modern interface
@@ -341,15 +335,15 @@ fashion web app. the aura is intentional ✨
 
 <div align="center">
 
-### 🛒 SHOPEZ
+### SHOPEZ
 
 <a href="http://shopez-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/explore%20live-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/explore%20live-0891B2?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-modern MERN e-commerce app. shopping, but make it smooth 🛍️
+modern MERN e-commerce app. shopping, but smooth.
 
 - online shopping experience
 - product discovery
@@ -360,13 +354,13 @@ modern MERN e-commerce app. shopping, but make it smooth 🛍️
 
 <div align="center">
 
-### 🧪 NEXT PROJECT LOADING
+### NEXT PROJECT LOADING
 
-<img src="https://img.shields.io/badge/status-cooking%20🍳-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/status-cooking-7C3AED?style=flat-square"/>
 
 </div>
 
-**the next one is always loading.** literally can't stop. 😭
+**the next one is always loading.**
 
 - AI-powered apps
 - backend architectures
@@ -381,35 +375,35 @@ modern MERN e-commerce app. shopping, but make it smooth 🛍️
 
 <div align="center">
 
-# ✨ 03 — the tech drip ✨
+## the tech drip
 
 *the tools i use to turn ideas into reality. the stack is the outfit.*
 
-### 💻 languages
+### languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,mysql&theme=dark"/>
 
 <br/><br/>
 
-### 🎨 frontend
+### frontend
 
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,vite&theme=dark"/>
 
 <br/><br/>
 
-### ⚙️ backend & databases
+### backend & databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&theme=dark"/>
 
 <br/><br/>
 
-### 🤖 AI & ML
+### AI & ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark"/>
 
 <br/><br/>
 
-### 🧰 dev tools
+### dev tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker&theme=dark"/>
 
@@ -419,9 +413,9 @@ modern MERN e-commerce app. shopping, but make it smooth 🛍️
 
 <div align="center">
 
-# ✨ 04 — the github receipts ✨
+## the github receipts
 
-*my commits, my streaks, my proof that i actually touch code. no cap.*
+*commits, streaks, proof that i actually touch code.*
 
 <br/>
 
@@ -439,7 +433,7 @@ modern MERN e-commerce app. shopping, but make it smooth 🛍️
 
 <div align="center">
 
-# ✨ 05 — the contribution snake 🐍 ✨
+## the contribution snake
 
 *every green square is a little W.*
 
@@ -451,27 +445,27 @@ modern MERN e-commerce app. shopping, but make it smooth 🛍️
 
 <div align="center">
 
-# ✨ 06 — the trophy case 🏆 ✨
+## the trophy case
 
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=somu7706&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
-### 🏆 the W's
+### the W's
 
 | Achievement | The receipts |
 |:--|:--|
-| 🥇 Hackathon | 1st place, 24-hour hackathon. absolute W |
-| 🥉 Competition | 3rd place, CodeChef VibeCoding. bronze but make it iconic |
-| 🌍 Coding | Smart Interviews Global Rank 2677 (out here competing) |
-| ☕ NPTEL | Programming Through Java, 83% |
-| 🐍 Certification | Infosys Springboard Python, 95% |
+| Hackathon | 1st place, 24-hour hackathon |
+| Competition | 3rd place, CodeChef VibeCoding |
+| Coding | Smart Interviews Global Rank 2677 |
+| NPTEL | Programming Through Java, 83% |
+| Certification | Infosys Springboard Python, 95% |
 
 ---
 
 <div align="center">
 
-# ✨ 07 — education era ✨
+## education era
 
 </div>
 
@@ -484,14 +478,14 @@ modern MERN e-commerce app. shopping, but make it smooth 🛍️
 
 <div align="center">
 
-# ✨ 08 — currently in my bag ✨
+## currently in my bag
 
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/DOCKER-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/CLOUD-111827?style=for-the-badge&logo=icloud&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/ADVANCED_DSA-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-111827?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/system%20design-111827?style=flat-square&logo=diagramsdotnet&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/cloud-111827?style=flat-square&logo=icloud&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/advanced%20dsa-111827?style=flat-square&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/typescript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
 
 </div>
 
@@ -499,39 +493,39 @@ modern MERN e-commerce app. shopping, but make it smooth 🛍️
 
 <div align="center">
 
-# ✨ 09 — tldr ✨
+## tldr
 
-### 💡 i love shipping real products (no cap)
-### 🚀 every project is a chance to learn something
-### 🎯 goal: build software that actually hits different
+### i love shipping real products
+### every project is a chance to learn something
+### goal: build software that actually hits different
 
 <br/>
 
-# ✨ slide in ✨
+## slide in
 
 <a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354">
-<img src="https://img.shields.io/badge/LINKEDIN-slide%20in%20🫶-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-slide%20in-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:somu7075267357@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-drop%20a%20msg-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/email-drop%20a%20msg-DB2777?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/somu7706">
-<img src="https://img.shields.io/badge/GITHUB-follow%20the%20journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-follow%20the%20journey-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/somu9885">
-<img src="https://img.shields.io/badge/LEETCODE-profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/leetcode-profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://codechef.com/users/somu_77">
-<img src="https://img.shields.io/badge/CODECHEF-profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/codechef-profile-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=thanks+for+stopping+by+💜;lets+build+something+lowkey+insane+🚀;keep+learning.+keep+shipping.+ate+and+left+no+crumbs+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=thanks+for+stopping+by;lets+build+something+lowkey+insane;keep+learning.+keep+shipping." />
 
 <br/>
 
@@ -539,6 +533,6 @@ modern MERN e-commerce app. shopping, but make it smooth 🛍️
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,25:164E63,55:4C1D95,80:312E81,100:020617&animation=twinkling"/>
 
-**code • create • slay • repeat 💅**
+**code • create • slay • repeat**
 
 </div>
