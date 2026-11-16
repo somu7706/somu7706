@@ -1,155 +1,104 @@
-# 👋 Hey, I'm Someswara Swamy
 
 <div align="center">
 
-<!-- AURORA HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:061E2B,35:075985,70:0F766E,100:164E63&text=Someswara%20Swamy&fontColor=ECFEFF&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Explorer&descAlignY=58&descSize=17&descColor=A5F3FC&animation=fadeIn"/>
+<!-- AURORA / NEON HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,18:082F49,42:0E7490,68:6D28D9,100:020617&text=SOMESWARA%20SWAMY&fontColor=ECFEFF&fontSize=54&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20EXPLORER&descAlignY=59&descSize=16&descColor=BAE6FD&animation=twinkling"/>
 
-### Building things that matter. One commit at a time. ✨
-
-<a href="https://github.com/somu7706">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:somu7075267357@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-0D9488?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/somu9885">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://codechef.com/users/somu_77">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&repeat=true&width=850&height=55&lines=%3E+I+turn+ideas+into+working+products_;%3E+Building+the+web.+Exploring+AI.;%3E+Debugging+today%2C+shipping+tomorrow.;%3E+Build.+Break.+Learn.+Repeat.+%E2%9A%A1" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=67E8F9&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%A1;Building+AI-Powered+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80;Always+Learning.+Always+Building."/>
+<a href="https://github.com/somu7706"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:somu7075267357@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/somu9885"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codechef.com/users/somu_77"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=somu7706&style=flat-square&color=0D9488&label=PROFILE+VIEWS"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=somu7706&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/github/followers/somu7706?style=for-the-badge&color=7C3AED&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/somu7706?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0D9488&label=REPO+STARS"/>
 
 </div>
 
 ---
 
-## 🌊 01. About Me
+<h2 align="center">⚡ THE DEVELOPER BEHIND THE SCREEN ⚡</h2>
 
-```javascript
+```js
 const somu = {
-    name: "Chidugundu Someswara Swamy",
-    role: "Full-Stack Developer",
-    education: "B.Tech - Computer Science",
-    college: "G. Pulla Reddy Engineering College",
-
-    technologies: {
-        frontend: ["React", "JavaScript", "TypeScript", "Tailwind"],
-        backend: ["Node.js", "Express", "Python"],
-        database: ["MongoDB", "MySQL", "Supabase"],
-        ai: ["Machine Learning", "TensorFlow"]
-    },
-
-    interests: [
-        "Full Stack Development",
-        "AI & Machine Learning",
-        "Backend Engineering",
-        "System Design"
-    ],
-
-    currentlyLearning: [
-        "Docker",
-        "Cloud",
-        "CI/CD",
-        "Advanced DSA"
-    ],
-
-    mindset: "Build. Break. Learn. Repeat."
+  name: "Chidugundu Someswara Swamy",
+  role: "Full-Stack Developer",
+  education: "B.Tech - Computer Science",
+  college: "G. Pulla Reddy Engineering College",
+  code: ["JavaScript", "TypeScript", "Java", "Python"],
+  frontend: ["React", "Redux", "HTML", "CSS", "Tailwind", "Vite"],
+  backend: ["Node.js", "Express", "Python"],
+  databases: ["MongoDB", "MySQL", "Supabase"],
+  ai_ml: ["TensorFlow", "Machine Learning"],
+  currentlyExploring: ["System Design", "Docker", "Cloud", "CI/CD", "Advanced DSA"],
+  mindset: "Build. Break. Learn. Repeat. 🚀"
 };
 ```
 
-- 💻 I build full-stack web applications and scalable backend systems.
-- 🤖 Exploring AI and machine learning to create smarter products.
-- 🚀 Love converting real-world problems into working applications.
-- 🏆 Hackathon participant and competition achiever.
-- 🌱 Continuously learning new technologies and development practices.
+- 🧩 I build full-stack applications and backend systems.
+- 🤖 Exploring AI/ML and practical ways to make software smarter.
+- 🌱 Always learning, experimenting, and shipping projects.
+- 🏆 Hackathon participant and coding competition achiever.
 - 🎯 Open to Software Engineering and Full-Stack Development opportunities.
 
 ---
 
-## 🚀 02. Featured Projects
-
-<div align="center">
-
-### Things I've built. Problems I've tried to solve.
-
-*From full-stack platforms to AI-powered applications.*
-
-</div>
+<h2 align="center">🌌 PROJECTS FROM THE LAB 🌌</h2>
+<p align="center"><i>Not just repositories — experiments, ideas, and things made real.</i></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏢 S3 Elite PG Platform
+<a href="https://s3elite.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<a href="https://s3elite.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+A PG and hostel management platform.
 
-A complete PG and hostel management platform.
-
-**Highlights**
 - Real-time dashboard
-- Room allocation
-- Fee tracking
+- Room allocation and fee tracking
 - Complaint management
 - WhatsApp notifications
-- JWT authentication
-- Socket.io integration
+- JWT authentication and Socket.io
 
-`React` `TypeScript` `Node.js` `MongoDB`
+`React` `TypeScript` `Node.js` `Express` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌾 Smart Farming Platform
-
-<a href="https://smart-farming-rgm.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<a href="https://smart-farming-rgm.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 AI-powered agricultural platform built during a hackathon.
 
-**Highlights**
 - Plant disease detection
 - Crop recommendations
-- Weather insights
-- ML predictions
+- Weather insights and ML predictions
 - Farmer dashboard
 
-🏆 **1st Place – 24-Hour Hackathon**
+🏆 **1st Place — 24-Hour Hackathon**
 
 `React` `Node.js` `Python` `TensorFlow`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🛍️ Someswara Swamy Sarees
+<a href="https://someswaraswamysarees.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<a href="https://someswaraswamysarees.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+E-commerce platform built for my family's saree business.
 
-An e-commerce platform built for my family's saree business.
-
-**Highlights**
-- Product catalog
-- Wishlist and cart
-- Admin dashboard
-- Inventory management
+- Product catalog, wishlist and cart
+- Admin dashboard and inventory
 - Product recommendations
 - Order management
 
@@ -158,112 +107,77 @@ An e-commerce platform built for my family's saree business.
 </td>
 <td width="50%" valign="top">
 
-### 🏥 MediCure Admin
-
-<a href="http://medicure-admin.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-Healthcare administration dashboard project.
-
-**Focus**
-- Healthcare management interface
-- Administrative workflows
-- Dashboard-oriented experience
-
-*Technology details to be updated.*
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Alumni Portal
-
-<a href="https://alumni-ten-eta.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-A platform designed to connect students and alumni.
-
-**Focus**
-- Alumni networking
-- Community management
-- Student-alumni interaction
-
-*Technology details to be updated.*
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Qissa Arabic Restaurant
-
-<a href="https://qissa-arabic-restaurant.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-Restaurant website with an Arabic-inspired identity.
-
-**Focus**
-- Restaurant presentation
-- Digital menu experience
-- Responsive web interface
-
-*Technology details to be updated.*
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 👗 Aura Fashion
-
-<a href="https://aurafashion-r4yn.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-Fashion-oriented web application.
-
-**Focus**
-- Fashion brand presentation
-- Modern interface
-- Responsive experience
-
-*Technology details to be updated.*
-
-</td>
-<td width="50%" valign="top">
-
 ### ⚡ QuickServe
-
-<a href="https://quickserve-v1.netlify.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE-0891B2?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
+<a href="https://quickserve-v1.netlify.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-06B6D4?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 A real-time service marketplace connecting customers with workers.
 
-**Concept**
 - Customer-worker connection
 - Service discovery
 - Marketplace experience
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🏥 MediCure Admin
+<a href="http://medicure-admin.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+Healthcare administration dashboard project.
+
+- Healthcare management interface
+- Administrative workflows
+- Dashboard-oriented experience
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Alumni Portal
+<a href="https://alumni-ten-eta.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+A platform designed to connect students and alumni.
+
+- Alumni networking
+- Community management
+- Student-alumni interaction
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Qissa Arabic Restaurant
+<a href="https://qissa-arabic-restaurant.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+Restaurant website with an Arabic-inspired identity.
+
+- Restaurant presentation
+- Digital menu experience
+- Responsive web interface
+
+</td>
+<td width="50%" valign="top">
+
+### 👗 Aura Fashion
+<a href="https://aurafashion-r4yn.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+Fashion-oriented web application.
+
+- Fashion brand presentation
+- Modern interface
+- Responsive experience
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛒 ShopEZ
+<a href="http://shopez-kappa.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<a href="http://shopez-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+A MERN-based e-commerce application.
 
-A modern MERN-based e-commerce application.
-
-**Focus**
 - Online shopping experience
 - Product discovery
 - E-commerce workflows
@@ -271,14 +185,10 @@ A modern MERN-based e-commerce application.
 </td>
 <td width="50%" valign="top">
 
-### 💡 What's Next?
+### 🧪 NEXT BUILD LOADING...
+Ideas in progress. Skills in progress. Always building.
 
-Always experimenting with new ideas.
-
-- AI-powered applications
-- Backend architectures
-- Developer productivity tools
-- Real-world SaaS products
+`AI-powered apps` `Backend systems` `SaaS ideas`
 
 </td>
 </tr>
@@ -286,114 +196,104 @@ Always experimenting with new ideas.
 
 ---
 
-## ⚙️ 03. Tech Stack
-
+<h2 align="center">🧬 MY TECH DNA</h2>
 <div align="center">
 
-### Languages
-
+**LANGUAGES**<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,mysql&theme=dark"/>
 
-### Frontend
-
+**FRONTEND**<br/>
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,vite&theme=dark"/>
 
-### Backend & Database
-
+**BACKEND & DATABASES**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&theme=dark"/>
 
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark"/>
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,docker&theme=dark"/>
+**AI / ML & TOOLS**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,postman,vscode,vercel,docker&theme=dark"/>
 
 </div>
 
 ---
 
-## 📊 04. GitHub Analytics
-
+<h2 align="center">📡 GITHUB TRANSMISSION</h2>
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=somu7706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=2DD4BF&text_color=C9D1D9"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=somu7706&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=2DD4BF&currStreakLabel=67E8F9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=somu7706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=somu7706&theme=tokyonight&hide_border=true&background=050816&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9"/>
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=somu7706&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=67E8F9&line=2DD4BF&point=FFFFFF"/>
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=somu7706&theme=tokyo-night&hide_border=true&bg_color=050816&color=67E8F9&line=A78BFA&point=FFFFFF"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somu7706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somu7706&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=E2E8F0"/>
 
 </div>
 
 ---
 
-## 🏆 05. Achievements & Certifications
+<h2 align="center">🐍 THE CONTRIBUTION SNAKE</h2>
+<div align="center">
 
-| Achievement | Recognition |
-|---|---|
-| 🥇 Hackathon | 1st Place – 24-Hour Hackathon |
-| 🥉 Competition | 3rd Place – CodeChef VibeCoding |
-| 🌍 Coding | Smart Interviews Global Rank 2677 |
-| ☕ NPTEL | Programming Through Java – 83% |
-| 🐍 Certification | Infosys Springboard Python – 95% |
+<img src="https://raw.githubusercontent.com/somu7706/somu7706/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
 
 ---
 
-## 🎓 06. Education
+<h2 align="center">🏆 TROPHIES & MILESTONES</h2>
+<div align="center">
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=somu7706&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+</div>
+
+| Achievement | Recognition |
+|:--|:--|
+| 🥇 Hackathon | 1st Place — 24-Hour Hackathon |
+| 🥉 Coding Competition | 3rd Place — CodeChef VibeCoding |
+| 🌍 Smart Interviews | Global Rank 2677 |
+| ☕ NPTEL | Programming Through Java — 83% |
+| 🐍 Infosys Springboard | Python — 95% |
+
+---
+
+<h2 align="center">🎓 EDUCATION</h2>
 
 | Qualification | Institution | Score |
-|---|---|---:|
-| B.Tech – CSE | G. Pulla Reddy Engineering College | 8.62 CGPA |
+|:--|:--|--:|
+| B.Tech — CSE | G. Pulla Reddy Engineering College | 8.62 CGPA |
 | Intermediate | Narayana Junior College | 9.1 GPA |
 
 ---
 
-## 🌱 07. Currently Exploring
-
+<h2 align="center">🛰️ CURRENTLY EXPLORING</h2>
 <div align="center">
 
-<img src="https://img.shields.io/badge/System_Design-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-0369A1?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-155E75?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-0E7490?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Advanced_DSA-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/DOCKER-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=githubactions&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/CLOUD-0F172A?style=for-the-badge&logo=icloud&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/ADVANCED_DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 
 </div>
 
 ---
 
-## 🤝 08. Let's Connect
-
+<h2 align="center">🤝 LET'S BUILD SOMETHING INSANE</h2>
 <div align="center">
 
-### Have an idea? Let's build something awesome. 🚀
+### Got an idea, opportunity, or cool problem? Let's talk.
 
-<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:somu7075267357@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/somu7706">
-<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://www.linkedin.com/in/chidugundu-someswara-swamy-8481b7354"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:somu7075267357@gmail.com"><img src="https://img.shields.io/badge/DROP_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/somu7706"><img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-### `while(alive) { learn(); build(); repeat(); }`
+`while (alive) { learn(); build(); repeat(); }`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:164E63,50:0F766E,100:061E2B"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,35:082F49,70:6D28D9,100:020617&animation=twinkling"/>
 
-**Thanks for stopping by! 💙**
+**Thanks for entering my corner of the internet. Stay curious. 💜**
 
 </div>
